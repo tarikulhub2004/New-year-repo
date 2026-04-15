@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* fast */
+
+.fast{
+    background: url('../images/Banner\ Image.png');
+    
+    width: 1320px;
+    height: 600px;
+    margin: 30px auto;
+    
+}
+.contain-1{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 183px 382px;
+
+    
+}
+.happy{
+    
+    font-weight: 400;
+    font-size: 32px;
+}
+.new{
+    font-weight: 900;
+    font-size: 72px;
+}
+/* section-2 */
+.section-2{
+    text-align: center;
+    margin-top: 100px;
+}
+.section-2-h1{
+    font-weight: bold;
+    font-size: 88px;
+    color: #FF0000;
+}
+.section-2-h5{
+    margin-top: 25px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FF0000;
+}
+.section-2-h3{
+    margin-top: 10px;
+font-weight: bold;
+font-size: 48px;
+color: #010211;
+}
+.section-2-img{
+    margin-top: 50px;
+}
