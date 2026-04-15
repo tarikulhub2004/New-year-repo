@@ -54,3 +54,231 @@ color: #010211;
 .section-2-img{
     margin-top: 50px;
 }
+/* section-3 style */
+.section-3{
+    background-image: url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    margin: 150px auto;
+    display: flex;
+    justify-content: center;
+}
+.contain-3{
+    color: #FFFFFF;
+    
+}
+.section-3-h1{
+    font-weight: 900;
+    font-size: 64px;
+    margin: 126px auto auto 126px;
+}
+.section-3-p{
+    font-weight: 400;
+    font-size: 18px;
+    margin: 24px auto auto 126px;
+}
+.btn-3{
+    background: none;
+    color: #FFFFFF;
+    border: none;
+    margin: 50px auto auto 158px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.img-serion-3{
+    margin: auto 138px auto auto;
+}
+/* section-4 */
+.section-4{
+    background-color: #FFFFF0;
+    width: 1320PX;
+    height: 482px;
+    margin: 20px auto;
+    font-weight: 600;
+    font-size: 32px;
+    text-align: center;
+}
+.h3-section-4{
+    margin-top: 10px;
+}
+
+    .div-section-4{
+        padding-top: 110px;
+    }
+    .btn-section-4{
+        color: #FFFFF0;
+        background-color: #FF0000;
+        padding: 16px 32px;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 5px;
+        border: none;
+        margin-top: 30px;
+    }
+    .span-4{
+        color: #FF0000;
+    }
+    /* section-5 */
+    .section-5{
+        width: 1320px;
+        height: 463px;
+        margin: 150px auto;
+        display: flex;
+        gap: 100px;
+    }
+    .section-5-h3{
+        font-weight: 500;
+        font-size: 24px;
+        color: #FF0000;
+    }
+    .section-5-h1{
+        font-weight: 900;
+        font-size: 48px;
+        margin-top: 20px;
+        color: #070211;
+    }
+    .section-5-p{
+        font-weight: 400;
+        font-size: 20px;
+        margin-top: 20px;
+        color: #070211;
+    }
+    .section-5-div-1, .section-5-div-3{
+        margin-top: 100px;
+    }
+    .h1-2024{
+        font-weight: bold;
+        font-size: 48px;
+        color: #FF0000;
+    }
+    .g-96{
+        margin-top: 20px;
+    }
+    .section-5-div-2{
+        border: solid red;
+    }
+    /* section-6 */
+    .box-6{
+        padding-top: 200px;
+    }
+    .section-6{
+        width: 1320px;
+        height: 986px;
+        background: url('../images/Rectangle\ 2.png');
+        background-repeat: no-repeat;
+        background-position: bottom;
+        margin: 30px auto;
+    }
+    .discount-6{
+        padding-bottom: 250px;
+    }
+    .para-6{
+        text-align: center;
+    }
+    .h5-6{
+        font-weight: 400;
+        font-size: 24px;
+    }
+    .h1-6{
+        font-weight: 900;
+        font-size: 72px;
+        padding-top: 5px;
+    }
+    .p-6{
+        font-weight: 500;
+        font-size: 20px;
+        color: #070211;
+        padding-top: 5px;
+    }
+    .holi-6{
+        color: #FF0000;
+    }
+    /* section-7 */
+    .section-7{
+        width: 1344px;
+        height: 1163px;
+        margin: 10px auto;
+    }
+    .contain-7{
+        display: flex;
+    }
+    .section-7-h5{
+        font-weight: 500;
+        font-size: 24px;
+        color: #FF0000;
+        padding-top: 5px;
+    }
+    .section-7-h{
+        font-weight: 900;
+        font-size: 48px;
+        color: #070211;
+        padding-top: 10px;
+    }
+    .section-7-p{
+        font-weight: ;
+        font-size: 20px;
+        color: #070211;
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+    /* section-8 */
+    .section-8{
+        margin: 20px auto;
+        width: 1320px;
+        height: 616px;
+        text-align: center;
+        padding-top: 86px;
+        background-color: bisque;
+    }
+    .section-8-h1{
+        padding-top: 20px;
+        font-weight: 900;
+        font-size: 48px;   }
+    .section-8-p{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .input-8{
+        padding: 20px;
+        
+    }
+    .btn-8{
+        color: #FFFFFF;
+        background-color: #FF0000;
+        padding: 20px;
+        border: none;
+        border-radius: 0 25px 25px 0;
+    }
+    .input-9{
+        padding: 20px;
+        border: none;
+        
+        border-radius: 25px 0 0 25px;
+    }
+    /* footer */
+    .footer-1{
+        display: flex;
+        justify-content: space-between;
+        padding: 100px;
+    }
+    .icons{
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .footer-2{
+        display: flex;
+        justify-content: space-between;
+        padding: 100px;
+    }
+    .footer{
+        background-color: #070211;
+        color: #FFFFFF;
+    }
+    .footer-1, .footer-2{
+        font-weight: 500;
+        font-size: 24px;
+    }
+    .margin-f{
+        margin: 30px auto;
+    }
