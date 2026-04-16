@@ -1,3 +1,15 @@
+/* font style */
+
+.open-sans-fast{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -278,7 +290,4 @@ color: #010211;
     .footer-1, .footer-2{
         font-weight: 500;
         font-size: 24px;
-    }
-    .margin-f{
-        margin: 30px auto;
     }
